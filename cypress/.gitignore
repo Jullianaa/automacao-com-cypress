@@ -1,0 +1,12 @@
+ Dependências
+ 
+cypress/screenshots/
+cypress/videos/
+cypress/reports/
+cypress/downloads/
+node_modules/
+
+# temp
+.DS_Store
+*.log
+Thumbs.db
